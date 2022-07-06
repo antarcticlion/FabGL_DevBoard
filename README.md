@@ -10,6 +10,11 @@
 <img src="https://github.com/antarcticlion/FabGL_DevBoard/raw/main/Images/FabGL_SBC.jpg" alt="FabGL DevBoard photo" width="384" height="224"/>
 
 ---
+# Lastest gerber
+
+https://github.com/antarcticlion/FabGL_DevBoard/raw/main/FabGL_SBC/gerber/ESP32DevkitC-V4-SBC-FabGL_02.zip
+
+---
 # BOM
 
 |番号|部品|数|
