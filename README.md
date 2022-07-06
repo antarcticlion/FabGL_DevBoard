@@ -6,6 +6,10 @@
 解説は後で書きます。
 
 ---
+
+<img src="https://github.com/antarcticlion/FabGL_DevBoard/raw/main/Images/FabGL_SBC.jpg" alt="FabGL DevBoard photo" width="384" height="224"/>
+
+---
 # BOM
 
 |番号|部品|数|
@@ -26,7 +30,7 @@
 | C1,C10 | 0.1uF 5mm pitch MLCC | 2|
 | C8 | 0.33uF 5mm pitch MLCC | 1|
 | SW1 or SW2 | SPDT togle switch | 1|
-| U7 | STMicronics L7805CV | 1|
+| U7 | STMicroelectronics L7805CV | 1|
 | J11 | DC Barreljack | 1|
 
 ---
