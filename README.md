@@ -39,6 +39,11 @@ https://github.com/antarcticlion/FabGL_DevBoard/raw/main/FabGL_SBC/gerber/ESP32D
 | J11 | DC Barreljack | 1|
 
 ---
+# 取り扱いの注意点
+・USBから給電するときはDCジャックの給電を止めてください。  
+・ファームウェア更新時にはBootボタンを押す必要があります。Arduino IDE から「→」ボタンで転送を始めたら、しばらく待った後で"Connecting...."と表示された後ですぐbootボタンを押して、転送が開始されたら放してください。  
+
+---
 
 # Related Links
 
