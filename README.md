@@ -42,6 +42,14 @@ https://github.com/antarcticlion/FabGL_DevBoard/raw/main/FabGL_SBC/gerber/ESP32D
 # 取り扱いの注意点
 ・USBから給電するときはDCジャックの給電を止めてください。  
 ・ファームウェア更新時にはBootボタンを押す必要があります。Arduino IDE から「→」ボタンで転送を始めたら、しばらく待った後で"Connecting...."と表示された後ですぐbootボタンを押して、転送が開始されたら放してください。  
+・I2Cは未チェックです。  
+・ESP32-WROVERに対応するためピンアウトを一部変えています。SDカードやエキスパンダを使う場合、初期化時にピン番号を指定してください。  
+| 信号 | ピン |
+|:---|:---|
+| MISO | 35 |
+| MOSI | 12 |
+| SCK | 14 |
+| SS | 13 |
 
 ---
 
