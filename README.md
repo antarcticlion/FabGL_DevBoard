@@ -59,7 +59,7 @@ https://github.com/fdivitto/FabGL
 
 ---
 
-# LICENSE
+# LICENCE
 
  CERN Open Hardware Licence Version 2 - Weakly Reciprocal
 - https://spdx.org/licenses/CERN-OHL-W-2.0.html  
